@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f5fa; /* Light blue background */
+    color: #333; /* Dark gray text */
+}
+
+header {
+    background-color: #007bff; /* Blue header */
+    color: white;
+    padding: 20px;
+}
+
+main {
+    padding: 20px;
+}
+
+footer {
+    background-color: #007bff;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+/* Customize links */
+a {
+    color: #007bff;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
