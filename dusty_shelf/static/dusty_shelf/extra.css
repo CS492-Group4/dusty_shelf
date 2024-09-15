@@ -1,0 +1,13 @@
+.banner {
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+.main {
+    background-image: url("book_bkgrnd.png"); 
+    background-size: cover;
+    background-position: center;
+
+    height: 500px; 
+}

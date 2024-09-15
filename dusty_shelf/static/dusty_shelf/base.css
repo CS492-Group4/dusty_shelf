@@ -1,21 +1,19 @@
-body {
-    font-family: Arial, sans-serif;
-    background-color: #f0f5fa; /* Light blue background */
-    color: #333; /* Dark gray text */
-}
-
 header {
-    background-color: #007bff; /* Blue header */
-    color: white;
-    padding: 20px;
+    display: block;
+    margin: auto;
+    text-align: center;
 }
 
-main {
+
+body {
+    background-image: url("book_bkgrnd.png");
     padding: 20px;
+    background-size: cover;
+    background-position: center;
+    height: 500px;
 }
 
 footer {
-    background-color: #007bff;
     color: white;
     padding: 20px;
     text-align: center;
